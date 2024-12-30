@@ -1,5 +1,8 @@
 # 🕵️‍♂️ OLEKSII HLUSHKOV
-Security Analyst
+Security Operations
+
+## Motto
+Blue team <-> Red Blood <-> Pupple willings 
 
 
 ## 📝 About Me
@@ -51,12 +54,14 @@ Master in Cyber Security
 - ECIH
 - CySA+
 - CHFI
+- Splunk Certified Cybersecurity Defense Analyst (In Progress...)
 - GDAT (In Progress...)
 
 ## 📚 Courses
 - SANS
   - SEC555: SIEM with Tactical Analytics
-  - SEC599: Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses (In Progress...)
+  - SEC599: Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses 
+  - SEC699: Advanced Purple Teaming - Adversary Emulation & Detection Engineering (In Progress...)
 - NATO M6-112: Cybersecurity of Operational Technology Systems
 - Splunk
   - Using Splunk Enterprise Security
