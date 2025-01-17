@@ -8,9 +8,9 @@ Blue team <-> Red Blood <-> Pupple willings
 ## 📝 About Me
 ![Image Description](https://alexeyglu.github.io/photo.jpeg)
 
-I have been involved in cybersecurity for 5 years with 3 years of industry experience as a SOC Analyst. SIEM - is my best friend. 
+I have been involved in cybersecurity for 7 years with 5 years of industry experience as a Security Operations Specialist in MSSP SOC. SIEM - is my best friend <3. Usually, I am involved in security monitoring and defense.
 
-I am proficient in Linux and Windows environments (including Active Directory). My expertise extends to network and host forensics, intrusion detection, and anomaly monitoring. 
+I am proficient in Linux and Windows environments (Active Directory guys here). My expertise extends to network and host forensics, intrusion detection, and anomaly monitoring. 
 
 Beyond my hands-on experience, I've shared my knowledge through cybersecurity training specifically for Ukraine's Critical Infrastructure sectors. 
 
@@ -18,11 +18,17 @@ To enhance my skills, I consistently participate in CTF competitions. 🏆
 
 
 ## 💼 Work Experience
-- 2019-present SOC Engineer at SCPC SSSCIP
+- 2019-2024 SecOps Analyst at SCPC SSSCIP
   - Data ingesting & normalization
   - Incident Triage & Investigation
   - Logs analysis & correlation
+  - Threat Intelligence implementation
   - Newcomers onboarding & mentoring
+  - Client cooperation
+ 
+- 2024-present SOC Lead at SCPC SSSCIP
+  - Management of cyber defense direction
+  - SIEM (Splunk) Architecture
   
 - 2021-present CRDF Cybersecurity Instructor
   - Maintain virtual infrastructure
@@ -37,6 +43,7 @@ To enhance my skills, I consistently participate in CTF competitions. 🏆
 - Threat Hunting
 - Network Forensics
 - Windows Forensics
+- Windows Hardening
 
 ## 📚 Frameworks
 - MITRE ATT&CK
@@ -50,18 +57,18 @@ To enhance my skills, I consistently participate in CTF competitions. 🏆
 Master in Cyber Security
 
 ## 🎓 Certifications
+- GDAT
 - CEH
 - ECIH
 - CySA+
 - CHFI
 - Splunk Certified Cybersecurity Defense Analyst (In Progress...)
-- GDAT (In Progress...)
 
 ## 📚 Courses
 - SANS
   - SEC555: SIEM with Tactical Analytics
   - SEC599: Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses 
-  - SEC699: Advanced Purple Teaming - Adversary Emulation & Detection Engineering (In Progress...)
+  - SEC699: Advanced Purple Teaming - Adversary Emulation & Detection Engineering 
 - NATO M6-112: Cybersecurity of Operational Technology Systems
 - Splunk
   - Using Splunk Enterprise Security
